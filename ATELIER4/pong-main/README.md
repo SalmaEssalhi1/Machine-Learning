@@ -252,8 +252,6 @@ Une implémentation complète de Q-learning pour entraîner un agent IA à jouer
 ├── game.py           # Classe Game - environnement Pong avec pygame
 ├── main.py           # Script principal d'entraînement et d'évaluation
 ├── models/           # Modèles Q-tables sauvegardés
-├── requirements.txt  # Dépendances Python
-├── quick_test.py     # Test rapide de fonctionnalité
 └── README.md         # Ce fichier
 ```
 
@@ -396,10 +394,11 @@ pip install pygame numpy matplotlib
 - `agent.py` - Implémentation de l'agent Q-learning
 - `game.py` - Jeu Pong avec trois modes
 - `main.py` - Script principal avec menu interactif
-- `quick_test.py` - Test rapide de fonctionnalité
-- `requirements.txt` - Dépendances Python
 - `models/` - Dossier pour les modèles sauvegardés
 
-## Guide de Test
 
-Voir `TESTING_GUIDE.md` pour des instructions de test détaillées.
+##  Réalisé par
+
+**ESSALHI SALMA**  
+Filière : *Logiciels et Systèmes Intelligents*  
+Sous la supervision de **Pr. ELAACHAK LOTFI**
